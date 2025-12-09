@@ -1,7 +1,7 @@
-// Portfolio Website JavaScript
+
 
 document.addEventListener('DOMContentLoaded', function () {
-    // Initialize all features
+    // all features
     initNavbar();
     initMobileMenu();
     initTypingEffect();
